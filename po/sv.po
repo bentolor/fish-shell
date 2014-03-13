@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fish 1.22.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-13 21:29+0800\n"
+"POT-Creation-Date: 2014-03-16 16:05+0100\n"
 "PO-Revision-Date: 2006-03-13 18:06+0100\n"
 "Last-Translator: Axel Liljencrantz <liljencrantz@gmail.com>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
@@ -8802,7 +8802,7 @@ msgid "Deletes an item from history"
 msgstr ""
 
 #: share/functions/hostname.fish:7
-msgid "Show or set the system's host name\r"
+msgid "Show or set the system's host name"
 msgstr ""
 
 #: share/functions/la.fish:4

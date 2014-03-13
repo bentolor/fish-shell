@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: de\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-13 21:29+0800\n"
+"POT-Creation-Date: 2014-03-16 16:05+0100\n"
 "PO-Revision-Date: 2013-11-01 18:36+0100\n"
 "Last-Translator: Benjamin\n"
 "Language-Team: deutsch <de@li.org>\n"
@@ -8782,7 +8782,7 @@ msgid "Deletes an item from history"
 msgstr "Einen Eintrag aus dem Paketdepot entfernen"
 
 #: share/functions/hostname.fish:7
-msgid "Show or set the system's host name\r"
+msgid "Show or set the system's host name"
 msgstr ""
 
 #: share/functions/la.fish:4
